@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess number!</string>
+    <string name="behind">Too small!</string>
+    <string name="ahead">Too big!</string>
+    <string name="hit">You are right!</string>
+    <string name="input_value">Enter number</string>
+    <string name="play_more">One more time</string>
+    <string name="try_to_guess">Try to guess number between 1 and 200 </string>
+    <string name="number_more_then_100">Do not forget that number is between 1 and 200</string>
+    <string name="emptyEntry">Enter number</string>
+    <string name="exitBtn">Exit</string>
+    <string name="empty" />
+</resources>
